@@ -3,7 +3,7 @@
 This project was completed as part of the **BLM4800 - Introduction to Data Mining** course at Yıldız Technical University, Department of Computer Engineering. It involves a comprehensive **credit risk analysis** using the **German Credit Dataset**, applying **classification and clustering techniques** from machine learning to evaluate customer creditworthiness.
 
 
-## 🧾 Project Summary
+## Project Summary
 
 The main goal of this project is to analyze and model **credit risk** in the financial sector by leveraging machine learning algorithms. The dataset contains 1000 credit applications with 20 features (7 numerical, 13 categorical) and a binary target variable indicating whether the applicant is a **good (0)** or **bad (1)** credit risk.
 
@@ -15,7 +15,7 @@ Key tasks performed:
 - Evaluation and comparison of models/clusters
 
 
-## 📁 Contents
+##  Contents
 
 | File | Description |
 |------|-------------|
@@ -24,7 +24,7 @@ Key tasks performed:
 | `requirements.txt` | List of Python packages required to run the notebook |
 
 
-## 🛠️ Requirements & Setup
+## Requirements & Setup
 
 ### Install Dependencies
 
@@ -37,7 +37,7 @@ The original dataset (german.data) is not included in this repository but can be
 
 Place it in the root directory under the name german.data.
 
-## 📊 Key Features of the Project
+## Key Features of the Project
 🔍 Classification Models
 Logistic Regression
 Decision Tree
@@ -51,12 +51,12 @@ Evaluation Metrics:
 - ROC AUC
 - Custom Cost Function (where FP=1, FN=5)
 
-🧱 Clustering Algorithms
+**Clustering Algorithms**
 - K-Means Clustering
 - Agglomerative Hierarchical Clustering
 - DBSCAN
 - 
-## 📈 Highlights
+## Highlights
 **K-Means Clustering (k=4)** successfully identified distinct customer segments, including:
    - Low-risk customers (older, low loan amounts, stable employment)
    - High-risk customers (long-term loans, high credit amounts)
