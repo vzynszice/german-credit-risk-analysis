@@ -55,7 +55,7 @@ Evaluation Metrics:
 - K-Means Clustering
 - Agglomerative Hierarchical Clustering
 - DBSCAN
-- 
+  
 ## Highlights
 **K-Means Clustering (k=4)** successfully identified distinct customer segments, including:
    - Low-risk customers (older, low loan amounts, stable employment)
