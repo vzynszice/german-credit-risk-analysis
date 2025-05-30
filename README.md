@@ -38,12 +38,12 @@ The original dataset (german.data) is not included in this repository but can be
 Place it in the root directory under the name german.data.
 
 ## Key Features of the Project
-**Classification Models**
-Logistic Regression
-Decision Tree
-Random Forest
+**Classification Models:**
+- Logistic Regression
+- Decision Tree
+- Random Forest
 
-Evaluation Metrics:
+**Evaluation Metrics:**
 - Accuracy
 - Precision
 - Recall (Sensitivity)
@@ -51,7 +51,7 @@ Evaluation Metrics:
 - ROC AUC
 - Custom Cost Function (where FP=1, FN=5)
 
-**Clustering Algorithms**
+**Clustering Algorithms:**
 - K-Means Clustering
 - Agglomerative Hierarchical Clustering
 - DBSCAN
