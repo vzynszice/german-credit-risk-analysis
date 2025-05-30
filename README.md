@@ -1,4 +1,4 @@
-# 📊 German Credit Risk Analysis Project
+# German Credit Risk Analysis Project
 
 This project was completed as part of the **BLM4800 - Introduction to Data Mining** course at Yıldız Technical University, Department of Computer Engineering. It involves a comprehensive **credit risk analysis** using the **German Credit Dataset**, applying **classification and clustering techniques** from machine learning to evaluate customer creditworthiness.
 
