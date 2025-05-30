@@ -62,4 +62,5 @@ Evaluation Metrics:
    - High-risk customers (long-term loans, high credit amounts)
      
 **Random Forest** achieved the best overall performance in classification metrics, while Logistic Regression yielded the lowest custom cost.
+
 **DBSCAN** struggled with parameter tuning and produced many noise points, suggesting the need for further optimization.
