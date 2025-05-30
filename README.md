@@ -38,7 +38,7 @@ The original dataset (german.data) is not included in this repository but can be
 Place it in the root directory under the name german.data.
 
 ## Key Features of the Project
-🔍 Classification Models
+**Classification Models**
 Logistic Regression
 Decision Tree
 Random Forest
